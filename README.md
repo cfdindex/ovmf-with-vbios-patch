@@ -9,3 +9,5 @@ Additionally, adds support for Intel GVT-g / RAMFB, which finally allows emulati
 Tested and confirmed to work on Dell XPS 15 (9570).
 
 Added VBIOS for RTX 3060 Max-Q
+
+Added VBIOS for Quadro M1000M
